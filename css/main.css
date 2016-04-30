@@ -1,0 +1,35 @@
+body {
+    position: relative;
+}
+
+.jj-div {
+    padding-top:50px;
+    height: 100vh;
+    min-height: 1000px;
+}
+
+.jj-outer {
+    height: 100%;
+    min-height: 1000px;
+}
+
+.jj-content {
+    height: 100%;
+    min-height: 1000px;
+}
+
+#home {
+    min-height: 1200px;
+}
+
+#parking {
+    min-height: 1200px;
+}
+
+#sleep {
+    min-height: 1400px;
+}
+
+.impressum {
+    font-size: smaller;
+}
